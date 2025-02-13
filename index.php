@@ -5,7 +5,7 @@
             <script src="assets/js/bootstrap.min.js"></script>
         <style>
             body {
-                background-color: #161F30;
+                background-color:rgb(22, 39, 70);
                 background-repeat : no-repeat;
             }
 
