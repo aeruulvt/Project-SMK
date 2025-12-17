@@ -1,3 +1,3 @@
 # Project Jurnal Guru
 
-# cuma Project UKK anak RPL yang masih awam
+# cuma Project UKK anak RPL
